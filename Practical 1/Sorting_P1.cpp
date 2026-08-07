@@ -83,7 +83,3 @@ int main(){
 	obj.Func();	
 	return 0;
 }
-
-
-
-
